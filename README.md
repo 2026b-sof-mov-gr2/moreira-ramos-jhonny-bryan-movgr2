@@ -4,6 +4,13 @@
 
 ![Pantallas de FilaCero](docs/collage.png)
 
+> **Contenido del repositorio**
+> | Carpeta | Entrega | Video |
+> |---|---|---|
+> | [`FilaCero-Interfaces/`](FilaCero-Interfaces) | Proyecto: 17 interfaces de la app en Flutter | [FilaCero_Interfaces.mp4](docs/FilaCero_Interfaces.mp4) |
+> | [`FilaCero-CRUD/`](FilaCero-CRUD) | Examen: CRUD en memoria de pedidos y platos ([README](FilaCero-CRUD/README.md)) | [FilaCero_CRUD.mp4](docs/FilaCero_CRUD.mp4) |
+
+
 ## Descripción
 
 FilaCero es una aplicación móvil para pedir comida en el comedor de la Escuela Politécnica Nacional sin hacer fila. Hoy, en la hora pico (13:00–14:00), el estudiante pasa buena parte de su receso esperando en la fila, no sabe qué hay en el menú y solo al llegar a la caja se entera de si su plato se acabó.
